@@ -1,5 +1,5 @@
 <!--Links-->
-[stats]: https://github-readme-stats.vercel.app/api?username=Rafi-99&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096&include_all_commits=true&count_private=true
+[stats]: https://github-readme-stats.vercel.app/api?username=Rafi-99&include_all_commits=true&count_private=true&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096
 [top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=Rafi-99&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096
 
 ### 👋🏽 Hello there!
