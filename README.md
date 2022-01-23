@@ -16,6 +16,6 @@ My name is Rafi and my favorite programming languages are Java and JavaScript! I
 ![top-lang]
 
 ### :email: Contact Me
-* By Email: rafi.md.2018@gmail.com
+* By Email: contact@rafi-codes.dev
 * On LinkedIn: [Md Rafi](https://www.linkedin.com/in/rafi2018/)
 * On Discord: Rafi ™#6927
