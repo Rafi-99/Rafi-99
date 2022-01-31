@@ -3,12 +3,12 @@
 [top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=Rafi-99&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096
 
 ### 👋🏽 Hello There!
-My name is Rafi and my favorite programming languages are Java and JavaScript! I am a 22 year old software engineer from Edina, Minnesota, United States. I love working on personal projects during my free time and being up to date with the latest technologies/trends. When I'm not coding, you'll find me working out or spending quality time with family/friends.
+My name is Rafi, and I am a software engineer from Edina, Minnesota. I consider myself an intrinsically motivated engineer who is always trying to improve his craft. I love keeping myself up-to-date on the latest technologies and trends in addition to developing personal projects during my leisure. Currently, my favorite languages to work with are Java and JavaScript. When I am not at my keyboard, I enjoy spending quality time with family and friends or working out. 
 
 ### :file_folder: My Projects
-* [The Monitor: A Discord Bot implemened in Java](https://github.com/Rafi-99/The-Monitor)
-* [Meme-API: A Node.js API for fetching memes off Reddit](https://github.com/Rafi-99/Meme-API)
-* [Portfolio-Website: Source code for my website, rafi-codes.dev](https://github.com/Rafi-99/Portfolio-Website)
+* [The Monitor ™: A multipurpose Discord bot. Built with Java.](https://github.com/Rafi-99/The-Monitor)
+* [Meme-API: A Node.js REST API. Fetches memes from Reddit.](https://github.com/Rafi-99/Meme-API)
+* [Portfolio-Website: Source code for rafi-codes.dev, my website.](https://github.com/Rafi-99/Portfolio-Website)
 
 ### :bar_chart: Statistics
 ![stats]
