@@ -18,4 +18,3 @@ My name is Rafi, and I am a software engineer from Edina, Minnesota. I consider 
 ### :email: Contact Me
 * By Email: contact@rafi-codes.dev
 * On LinkedIn: [Md Rafi](https://www.linkedin.com/in/rafi2018/)
-* On Discord: Rafi ™#6927
